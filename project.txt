@@ -1,0 +1,14 @@
+Signup Fields : 
+ - firstname - 1
+ - lastname - 1
+ - age  - 2
+ - gender - 2
+ - email - 1
+ - phone - 2
+ - username - 1
+ - password - 1
+ - birthdate - 3 
+ - blood Group - 3
+ - height - 3
+ - weight - 3
+  
